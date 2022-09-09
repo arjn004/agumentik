@@ -1,0 +1,13 @@
+*{
+    text-decoration: None;
+}
+.footer{
+    text-align: center;
+    height: 400px;
+    width: 300px;
+    display: inline-block;
+    color: grey;
+}
+.haii{
+    color: red;
+}
